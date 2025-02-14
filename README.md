@@ -7,4 +7,4 @@ ECG:
 BionMed LMM example:
 1) https://www.pubmedgpt.dev
 
-2) LLM with attention example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/TAUforPython/machinelearning/blob/main/example_LLM_AWQ_transformers.ipynb)]
+2) LLM with attention example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAUforPython/machinelearning/blob/main/example_LLM_AWQ_transformers.ipynb)
