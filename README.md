@@ -3,6 +3,9 @@ ECG:
 1) https://physionet.org/content/ptb-xl/1.0.3/
 2) https://physionet.org/content/mimic-iv-ecg/1.0/
 
+AutoML framework challenge:
+1) EDA and AutoML example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAUforPython/BioMedAI/blob/main/ML%20ECG%20classification.ipynb)
+
 
 BionMed LMM example:
 1) https://www.pubmedgpt.dev
