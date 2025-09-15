@@ -12,8 +12,8 @@ BionMed LMM example:
 
 2) LLM with attention example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAUforPython/machinelearning/blob/main/example_LLM_AWQ_transformers.ipynb)
 
-3) LMM with fact cheking based on Graph Neural Network
-<a href="https://colab.research.google.com/github/TAUforPython/BioMedAI/blob/main/example%20LLM%20GNN%20fact%20checking.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+3) LMM with fact cheking based on Graph Neural Network and attention
+<a href="https://colab.research.google.com/github/TAUforPython/BioMedAI/blob/main/LLM%20GNN%20fact%20checking.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 
 Genetics EDA:
